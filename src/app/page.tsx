@@ -1,6 +1,6 @@
 import { Card, CardTitle } from "../shared/ui/card";
 import React from "react";
-import SignUpForm from "./(auth)/sign-up/page";
+import SignUpForm from "./(auth)/auth/page";
 
 export default async function Home() {
 
